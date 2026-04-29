@@ -13,6 +13,8 @@ This repository contains the implementation and scripts used for the experiments
 
 ## Scripts and Usage
 
+Detailed execution notes for the four batched agents, including stdout patterns, generated files, and positional arguments, are documented in `RUNNING_BATCHED_AGENTS.md`.
+
 ### `MAB_EP.py` & `batched_MAB_EP.py`
 These scripts implement Multi-Armed Bandit with Epsilon Greedy Policy (`MapTune-ε`) agent and its batched version to tune the technology mapping process. 
 - **Usage:** 
